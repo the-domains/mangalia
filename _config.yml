@@ -1,28 +1,40 @@
-name: Mangalia
 favicon: null
-layout_spectrum: 0.74535
-typography_spectrum: 0.90271
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Mangalia
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#001d28'
-    - '#ffffff'
-    - '#473334'
-    - '#8e7c64'
-    - '#165a92'
-  brandStrength: 0.5625
-  lightness: 0.125
-  saturation: 0.875
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.750896
+  brandStrength: 0.6128822453320026
+  lightness: 0.7706093
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  rhythmicContrast: 0.7311828
+typography_spectrum: 0.07526882
+layout_spectrum: 0.9641577
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
