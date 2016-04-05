@@ -1,7 +1,7 @@
 name: Mangalia
 favicon: null
-layout_spectrum: 0.18267320259474218
-typography_spectrum: 0.5082485885359347
+layout_spectrum: 0.99915
+typography_spectrum: 0.90271
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6128822453320026
-  lightness: 0.17263281322084367
+    - '#001d28'
+    - '#ffffff'
+    - '#473334'
+    - '#8e7c64'
+    - '#165a92'
+  brandStrength: 0.625
+  lightness: 0.125
   saturation: 0.5555517945904285
-  rhythmicContrast: 0.46961426036432385
+  rhythmicContrast: 0.5
 purpose: []
