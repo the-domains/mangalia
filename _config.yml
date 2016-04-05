@@ -1,4 +1,7 @@
-layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +21,20 @@ collections:
 purpose: []
 color:
   saturation: 1
-  brandStrength: 0.6128822453320026
+  brandStrength: 0.5591398
   lightness: 1
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#16426E'
+    - '#6E6F6E'
+    - '#42494B'
+    - '#FCFCFB'
+    - '#0D0605'
   rhythmicContrast: 1
 typography_spectrum: 0.07526882
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 1
 favicon: null
 name: Mangalia
