@@ -1,7 +1,7 @@
 name: Mangalia
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.07526882
+typography_spectrum: 0.10237
 collections:
   - index:
       path: /
