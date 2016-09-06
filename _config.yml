@@ -19,7 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Mangalia
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2ffe452-3d22-44ce-985a-c007d614afea.png
+name: Saturn
 cta:
   domain: null
   bucket: null
