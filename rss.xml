@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mangalia]]></title>
-        <description><![CDATA[Mangalia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Mangalia on WEB]]></title>
+        <description><![CDATA[Mangalia on WEB]]></description>
+        <link>https://thegrid.ai/mangalia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 20:54:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 22:51:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mangalia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[test]]></title>
-            <description><![CDATA[<article><h1>test</h1><p>Mangalia</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3aac275-7149-4195-97a6-fb223a93f8e1.jpg"></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33579c067e75710d5db97f01b7c9a1aa7bee5f65.jpg">]]></description>
+            <link>https://thegrid.ai/mangalia/test/index.html</link>
             <guid isPermaLink="false">32771daa-2dd2-4001-b931-6703dfb9d004</guid>
-            <pubDate>Tue, 05 Apr 2016 20:53:27 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 22:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
